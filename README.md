@@ -1,6 +1,8 @@
 # nuxt-3-server
 Nuxt 3 Server
 
+https://www.youtube.com/watch?v=7Rw_ATJQJrI
+
 ## Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
